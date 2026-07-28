@@ -1,0 +1,27 @@
+          70       S.                                                       Central/     Central Ministry/
+                               Activity           Scheme/ Institutions                                                           Relevant Components/Description
+                  No.                                                        State       State Nodal Dept.
+                  299   Insurance schemes        Student Accident           State      Education Department Insurance cover of ₹ 50000 in case of any injury or death in accident of a
+                        like Aam Aadmi Bima      Insurance Scheme                                           student studying in class 9th to 12th. Premium of this scheme for boy is
+                        Yojana                                                                              10/years and for girls 5/years.
+                  300   Insurance schemes        Individual Accident        State      Finance                 Every farmer holding Kisan credit card is given ₹ 50000 Insurance cover
+                        like Aam Aadmi Bima      Insurance Scheme for                                          by oriental insurance company on the premium of ₹ 7 per year.
+                        Yojana                   Kisan Credit Card Holder
+                  301   Insurance schemes        Asthan Yojana              State      Welfare Department      In this scheme, some additional benefits are given for the BPL families
+                        like Aam Aadmi Bima                                                                    where two or more people are physically handicapped. In the scheme,
+                        Yojana                                                                                 they will be given free medical facilities, Indira Awaas and subsidy in
+                                                                                                               Rashan.
+
+
+
+
+Social Security
+                  302   Insurance schemes        Health Insurance           State      Industries Department   In this scheme, cashless medical facilities are given to the families of the
+                        like Aam Aadmi Bima      Scheme for Handloom                                           handloom worker by ICICI Lombard. The annual limit of the treatment is
+                        Yojana                   Workers                                                       ₹ 15,000 on the premium of ₹ 50.
+                  303   Insurance schemes        Salt Labour Welfare        State      Industries Department   In this scheme, salt labour are given insurance and protective equipment
+                        like Aam Aadmi Bima      Scheme                                                        to minimise health problem.
+                        Yojana
+                  304   PDS- universal           National Food Security     Central    Department of Food      PDS for Households.
+                        access to all eligible   Act                                   and Public Distribution
+                        households
