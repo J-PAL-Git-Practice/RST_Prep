@@ -1,0 +1,11 @@
+[project]
+name = "rst-prep"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyterlab>=4.6.2",
+    "openai>=2.49.0",
+    "pandas>=3.0.5",
+]
